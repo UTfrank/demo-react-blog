@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UTfrank/demo-react-blog.git/static/css/main.7b77baea.chunk.css",
+    "main.js": "/UTfrank/demo-react-blog.git/static/js/main.a6dcec87.chunk.js",
+    "main.js.map": "/UTfrank/demo-react-blog.git/static/js/main.a6dcec87.chunk.js.map",
+    "runtime-main.js": "/UTfrank/demo-react-blog.git/static/js/runtime-main.0b3632f7.js",
+    "runtime-main.js.map": "/UTfrank/demo-react-blog.git/static/js/runtime-main.0b3632f7.js.map",
+    "static/js/2.05b6c046.chunk.js": "/UTfrank/demo-react-blog.git/static/js/2.05b6c046.chunk.js",
+    "static/js/2.05b6c046.chunk.js.map": "/UTfrank/demo-react-blog.git/static/js/2.05b6c046.chunk.js.map",
+    "index.html": "/UTfrank/demo-react-blog.git/index.html",
+    "static/css/main.7b77baea.chunk.css.map": "/UTfrank/demo-react-blog.git/static/css/main.7b77baea.chunk.css.map",
+    "static/js/2.05b6c046.chunk.js.LICENSE.txt": "/UTfrank/demo-react-blog.git/static/js/2.05b6c046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b3632f7.js",
+    "static/js/2.05b6c046.chunk.js",
+    "static/css/main.7b77baea.chunk.css",
+    "static/js/main.a6dcec87.chunk.js"
+  ]
+}
