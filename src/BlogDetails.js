@@ -5,11 +5,11 @@ import useFetch from './useFetch';
 const BlogDetails = () => {
 
   const { id } = useParams();
-  const { data:blog, error, isLoading } = useFetch(`http://localhost:8000/blogs/${ id }`);
+  const { data:blog, error, isLoading } = useFetch(`https://utfrank.github.io/demo-react-blog/blogs${ id }`);
   const history = useHistory();
   
   const handleClick = () => {
-    fetch(`http://localhost:8000/blogs/${ id }`, {
+    fetch(`https://utfrank.github.io/demo-react-blog/blogs${ id }`, {
       method: 'DELETE',
     }).then(() => {
       history.push('/');
